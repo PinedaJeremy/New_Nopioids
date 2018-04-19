@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New_NoPioids", "New_NoPioids.csproj", "{C11B7319-0B11-FA73-FB1D-91F023D6222E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New_NoPioids.Editor", "New_NoPioids.Editor.csproj", "{BE3C4CBF-1AAB-57FF-E5AB-F2CD238B14B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11B7319-0B11-FA73-FB1D-91F023D6222E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11B7319-0B11-FA73-FB1D-91F023D6222E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11B7319-0B11-FA73-FB1D-91F023D6222E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11B7319-0B11-FA73-FB1D-91F023D6222E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3C4CBF-1AAB-57FF-E5AB-F2CD238B14B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3C4CBF-1AAB-57FF-E5AB-F2CD238B14B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3C4CBF-1AAB-57FF-E5AB-F2CD238B14B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3C4CBF-1AAB-57FF-E5AB-F2CD238B14B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
